@@ -1,6 +1,7 @@
-n = int(input("Enter A :"))
-m = int(input("Enter B :"))
+#hare Krishna
+x = int(input("Enter A :"))
+y = int(input("Enter B :"))
 
-o = m + n
+o = x + y
 
 print("Sum : ", o)
